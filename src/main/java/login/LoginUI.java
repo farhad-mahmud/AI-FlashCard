@@ -26,8 +26,10 @@ public class LoginUI extends JFrame {
         SwingUtilities.invokeLater(() -> {
             try {
                 UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+                UserManager.migrateStringLocationsToGeoJSON(); // Migrate data first
+                UserManager.ensureLocationIndex(); // Then ensure the geospatial index is created
             } catch (Exception e) {
-                LOGGER.log(Level.SEVERE, "Error setting look and feel", e);
+                LOGGER.log(Level.SEVERE, "Error during application startup", e);
             }
             new LoginUI();
         });

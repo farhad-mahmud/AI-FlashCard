@@ -14,6 +14,8 @@ public class Toaster {
     private static final int SPACER_DISTANCE = 15;
     private static final ArrayList<ToasterBody> toasterBodies = new ArrayList<>();
     private final static AtomicInteger CURRENT_Y_OFFSET = new AtomicInteger();
+    public static final String Style = null;
+    public static Object ERROR;
     private final JPanel panelToToastOn;
 
     public Toaster(Container panelToToastOn) {
@@ -94,5 +96,10 @@ public class Toaster {
             panelToToastOn.remove(toasterBody);
             panelToToastOn.repaint();
         }
+    }
+
+    public void setVisible(boolean b) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setVisible'");
     }
 }
