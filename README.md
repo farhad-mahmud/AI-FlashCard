@@ -44,10 +44,10 @@ Export/import flashcards as CSV
 
 <h2 ></h2> Author</h2>
 
-Farhad Mahmud
-Computer Science Engineering Student
+Farhad Mahmud<br>
+Computer Science Engineering Student<br>
 Passionate about AI, NLP, and intelligent learning systems
 
 <h2>Show Your Support</h2>
 
-If you like this project, give it a star on GitHub — it helps others discover it!
+If you like this project, give it a star ⭐ on GitHub — it helps others discover it!
