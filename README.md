@@ -17,13 +17,11 @@ Data Persistence — Save and load flashcards easily from a local database.
 Clean UI — Simple, distraction-free interface for studying.
 
 <h2>🧰 Tech Stack</h2>
-| Component     | Technology                     |
-|----------------|--------------------------------|
-| **Language**   | Java                           |
-| **AI / NLP**   | Gemini                         |
-| **Database**   | MongoDB                        |
-| **Frontend**   | Java Swing with Toaster Component |
-
+Component - Technology<br>
+Language  -	Java<br> 
+AI / NLP  -  Gemini<br> 
+Database	- MongoDB<br> 
+Frontend	- Java Swing with Toaster Component
 
 <h2>💡 How It Works</h2>
 
