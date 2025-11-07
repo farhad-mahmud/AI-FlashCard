@@ -1,5 +1,0 @@
-# This is an example configuration file.
-# To use the application, create a copy of this file named 'config.properties'
-# and place your actual Google Gemini API key below.
-
-API_KEY=

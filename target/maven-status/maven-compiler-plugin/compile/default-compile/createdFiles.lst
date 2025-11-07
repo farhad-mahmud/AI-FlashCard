@@ -20,6 +20,7 @@ create_flashcard\FlashcardPage$9.class
 dashboard\UserProfilePage.class
 create_flashcard\FlashcardPage$10.class
 create_quiz\QuizPage$1.class
+dashboard\NearbyUsersExplorer.class
 create_flashcard\FlashcardPage$3.class
 login\MapViewer.class
 dashboard\Dashboard$2.class

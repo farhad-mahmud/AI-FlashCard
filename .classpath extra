@@ -5,9 +5,9 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="lib/mongodb-driver-sync-4.11.0.jar"/>
-	<classpathentry kind="lib" path="lib/mongodb-driver-core-4.11.0.jar"/>
-	<classpathentry kind="lib" path="lib/bson-4.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/codes/project and codes/java projects-codes/ThinkDeck/lib/mongodb-driver-sync-4.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/codes/project and codes/java projects-codes/ThinkDeck/lib/mongodb-driver-core-4.11.0.jar"/>
+	<classpathentry kind="lib" path="D:/codes/project and codes/java projects-codes/ThinkDeck/lib/bson-4.11.0.jar"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
