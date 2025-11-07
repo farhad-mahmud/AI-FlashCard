@@ -1,20 +1,20 @@
-🧠 AI FlashCard Desktop App
+ AI FlashCard Desktop App
 
 An intelligent flashcard application that helps you learn faster and retain longer using AI-generated questions, spaced repetition, and smart review scheduling.
 
 🚀 Features
 
-🤖 AI-Powered Flashcards — Automatically generate flashcards and summaries from text or topics.
+ AI-Powered Flashcards — Automatically generate flashcards and summaries from text or topics.
 
-🧩 Spaced Repetition — Prioritize cards based on your memory strength.
+ Spaced Repetition — Prioritize cards based on your memory strength.
 
-🔍 Smart Question Generation — Uses NLP to create questions and hints dynamically.
+ Smart Question Generation — Uses NLP to create questions and hints dynamically.
 
-📊 Progress Tracking — Visualize learning stats and mastery levels.
+ Progress Tracking — Visualize learning stats and mastery levels.
 
-☁️ Data Persistence — Save and load flashcards easily from a local Database.
+ Data Persistence — Save and load flashcards easily from a local Database.
 
-🎨 Clean UI — Simple, distraction-free interface for studying.
+ Clean UI — Simple, distraction-free interface for studying.
 
 🧰 Tech Stack
 Component	Technology
