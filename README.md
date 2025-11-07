@@ -1,4 +1,4 @@
-AI FlashCard Desktop App
+<h2>AI FlashCard Desktop App</h2>
 
 An intelligent flashcard application that helps you learn faster and retain longer using AI-generated questions, spaced repetition, and smart review scheduling.
 
@@ -17,11 +17,11 @@ Data Persistence — Save and load flashcards easily from a local database.
 Clean UI — Simple, distraction-free interface for studying.
 
 <h2>🧰 Tech Stack</h2>
-Component	Technology
-Language	Java
-AI / NLP	Gemini
-Database	MongoDB
-Frontend	Java Swing with Toaster Component
+Language - Java
+AI / NLP - Gemini
+Database -	MongoDB
+Frontend - Java Swing with Toaster Component
+
 <h2>💡 How It Works</h2>
 
 Input Content — Provide text, topic, or PDF material.
