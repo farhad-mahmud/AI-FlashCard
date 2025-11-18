@@ -6,8 +6,11 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="lib/mongodb-driver-sync-4.11.0.jar"/>
-	<classpathentry kind="lib" path="lib/mongodb-driver-core-4.11.0.jar"/>
-	<classpathentry kind="lib" path="lib/bson-4.11.0.jar"/>
+<classpathentry kind="lib" path="lib/mongodb-driver-core-4.11.0.jar"/>
+<classpathentry kind="lib" path="lib/bson-4.11.0.jar"/>
+<classpathentry kind="lib" path="lib/slf4j-api-1.7.30.jar"/>
+<classpathentry kind="lib" path="lib/slf4j-simple-1.7.30.jar"/>
+
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
